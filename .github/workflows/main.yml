@@ -14,4 +14,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
+          template: markdown
+          filename: metrics.markdown.md
+          markdown: >-
+            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+          config_output: markdown
           token: ${{ secrets.METRICS_TOKEN }}
