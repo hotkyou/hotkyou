@@ -5,16 +5,16 @@ See [rendering of this file here](https://github.com/lowlighter/metrics/blob/exa
 ## 🧩 Plugins with markdown version
 
 **[📰 Recent activity](https://github.com/hotkyou)**
-* ⏺️ Created new branch v1.1 in [hotkyou/mahjongDataSet](https://github.com/hotkyou/mahjongDataSet)
-* ⏺️ Created new branch v1.0 in [hotkyou/mahjongDataSet](https://github.com/hotkyou/mahjongDataSet)
-* ⏺️ Created new branch main in [hotkyou/TrustyCat](https://github.com/hotkyou/TrustyCat)
-* ⏺️ Created new repository  [hotkyou/TrustyCat](https://github.com/hotkyou/TrustyCat)
-* 🔃 Merged [#6 fix: bug](https://github.com/hotkyou/mahjongDataSet/pull/6) in [hotkyou/mahjongDataSet](https://github.com/hotkyou/mahjongDataSet)
-  * 2 files changed `++10 --17`
-* 🔃 Opened [#6 fix: bug](https://github.com/hotkyou/mahjongDataSet/pull/6) in [hotkyou/mahjongDataSet](https://github.com/hotkyou/mahjongDataSet)
-  * 2 files changed `++7 --15`
-* 🔃 Merged [#5 addSelf](https://github.com/hotkyou/mahjongDataSet/pull/5) in [hotkyou/mahjongDataSet](https://github.com/hotkyou/mahjongDataSet)
-  * 1 file changed `++2 --2`
+* ➡️ Pushed 1 commit in [hotkyou/hotkyou](https://github.com/hotkyou/hotkyou) on branch `master`
+  * [#eeef9ee](https://github.com/hotkyou/hotkyou/commit/eeef9ee) Update main.yml
+* ➡️ Pushed 1 commit in [hotkyou/hotkyou](https://github.com/hotkyou/hotkyou) on branch `master`
+  * [#129756c](https://github.com/hotkyou/hotkyou/commit/129756c) Update main.yml
+* ➡️ Pushed 1 commit in [hotkyou/hotkyou](https://github.com/hotkyou/hotkyou) on branch `master`
+  * [#20fdf65](https://github.com/hotkyou/hotkyou/commit/20fdf65) Update main.yml
+* ➡️ Pushed 1 commit in [hotkyou/hotkyou](https://github.com/hotkyou/hotkyou) on branch `master`
+  * [#8855f61](https://github.com/hotkyou/hotkyou/commit/8855f61) Update README.md
+* ➡️ Pushed 1 commit in [hotkyou/hotkyou](https://github.com/hotkyou/hotkyou) on branch `master`
+  * [#d3cc4ec](https://github.com/hotkyou/hotkyou/commit/d3cc4ec) Create main.yml
 
 
 ___
@@ -29,9 +29,9 @@ ___
   * *Published on 6 Dec 2023*
 * [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
   * *Published on 6 Dec 2023*
-* [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
-  * *Published on 6 Dec 2023*
 * [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
+  * *Published on 6 Dec 2023*
+* [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
   * *Published on 6 Dec 2023*
 
 
