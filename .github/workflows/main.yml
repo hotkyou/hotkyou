@@ -40,6 +40,7 @@ jobs:
           plugin_music: yes
           plugin_music_limit: 9
           plugin_music_playlist: ${{ secrets.PLAYLIST }}
+          plugin_music_provider: apple
 
       - name: Achievements
         if: ${{ success() || failure() }}
