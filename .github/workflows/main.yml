@@ -51,7 +51,6 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: yes
 
       - name: notable
         if: ${{ success() || failure() }}
